@@ -1,0 +1,1 @@
+in this problem each run takes about 1 hour. so in some part I used saved model from the day before run. Therefore we dont have some history of learningg
